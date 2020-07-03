@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/First Shader.unity
+    guid: a0e527902f824c94f8bf8e71eae83cb3
   m_configObjects: {}
